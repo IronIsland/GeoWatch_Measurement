@@ -1,0 +1,147 @@
+no longer be accessible
+App unavailable
+Access Limited by Region
+Access Prohibited
+Access Restricted
+Area Restriction
+Connection Refused
+Content Blocked
+Content Not Accessible
+Content Not Viewable in Your Country
+Content Restricted by Location
+Content Unavailable in Your Location
+Country Ban
+Country Restriction
+Country-Specific Block
+Country-Specific Restriction
+Geo-Filtering
+Geo-Restriction
+Geo-blocked Content
+Geographic Limitation
+Geographic Restriction
+IP Address Blocked
+IP Block
+IP Denied
+Location Restriction
+Location-Based Access Control
+Location-based Blocking
+Network Error
+Not Accessible in This Region
+Not Accessible in Your Country
+Not Available in Your Region
+Page Blocked
+Region Lock
+Region-Specific Block
+Regional Access Denied
+Regional Limitation
+Restricted Content
+Restricted Service
+Service Blocked in Your Area
+Service Not Available in Your Country
+Service Not Offered in Your Region
+Service Temporarily Unavailable
+This Site Can’t Be Reached
+This content is not available in your country
+Website Blocked
+access denied
+content not available
+page not found
+proxy Authentication Required
+service unavailable
+site is down
+Access Denied
+Blocked by Firewall
+Content Filtered
+Domain Blocked
+Host Unreachable
+Internet Censorship
+IP Blocked by ISP
+ISP Restriction
+Network Blocked
+Network Restricted
+Not Allowed
+Proxy Blocked
+Restricted Access
+Service Blocked
+Site Restricted
+Unauthorized Access
+URL Blocked
+VPN Required
+Web Filtered
+Web Protection
+Web Security Block
+Webpage Blocked
+无法访问
+应用不可用
+不可用
+区域限制访问
+访问被禁止
+访问受限
+区域限制
+连接被拒绝
+内容被封锁
+内容无法访问
+您的国家/地区无法查看内容
+位置限制的内容
+您的位置无法访问内容
+国家封锁
+国家限制
+特定国家封锁
+特定国家限制
+地理过滤
+地理限制
+地理封锁内容
+地理限制
+IP地址被封锁
+IP封锁
+IP被拒绝
+位置限制
+基于位置的访问控制
+基于位置的封锁
+网络错误
+该地区无法访问
+您的国家/地区无法访问
+您的地区不可用
+页面被封锁
+区域锁定
+特定区域封锁
+区域访问被拒绝
+区域限制
+受限内容
+受限服务
+您的地区被封锁的服务
+您的国家/地区不可用的服务
+您的地区不提供的服务
+服务暂时不可用
+无法访问此网站
+此内容在您的国家/地区不可用
+网站被封锁
+访问被拒绝
+内容不可用
+页面未找到
+需要代理身份验证
+服务不可用
+网站已关闭
+网站访问被拒绝
+被防火墙封锁
+内容被过滤
+域名被封锁
+禁止访问
+主机无法访问
+互联网审查
+IP被ISP封锁
+ISP限制
+网络被封锁
+网络受限
+不允许访问
+代理被封锁
+访问受限
+服务被封锁
+网站受限
+未经授权的访问
+URL被封锁
+需要VPN
+网页被过滤
+网页保护
+网页安全封锁
+网页被封锁
